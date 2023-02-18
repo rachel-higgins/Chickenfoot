@@ -3,8 +3,7 @@ File: main.cpp
 Description: This program simulates the game of Chicken Foot Dominoes. It 
 uses classes Player, Bone, and ChickenYard to create a game where a player 
 can draw bonesfrom a chickenyard, play bones from their hand, and keep 
-track of their score.The program also includes a menu-driven interface to 
-allow the user to interact with the game.
+track of their score.
  *****************************************************************************/
 #include <iostream>
 #include "game.h"
